@@ -1,0 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
