@@ -3,7 +3,7 @@ from album_downloader.downloader import AlbumDownloader
 if __name__ == "__main__":
     # List of album URLs for testing
     album_urls = [
-        "xxxx",
+        "xxxx"
         # Add more URLs as needed
     ]
 
